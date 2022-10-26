@@ -103,9 +103,6 @@ Rat functions:
     Send file to victim on PC
 
     Play victim's voice message on PC
-    ![1d532f0474efe03a1ff8d](https://user-images.githubusercontent.com/97908971/198133423-bcca1b00-f7f4-435c-8742-7ba2308c56f4.png)
-    ![60b02bba9a49680e60фвыйаыf92](https://user-images.githubusercontent.com/97908971/198133492-01150bf0-4209-4868-82bc-0e3826204965.png)
-
     
     ----------------------------------------
     
@@ -138,3 +135,10 @@ Rat functions:
 11 Launch the bot. It is normal if he does not answer you, because Exe has not yet been launched
 
 12 Main.exe will appear in the dist folder, we send it to the victim. After she opens it, the bot will answer you
+
+###
+
+Screenshots:
+
+![1d532f0474efe03a1ff8d](https://user-images.githubusercontent.com/97908971/198133743-400f60e5-3b95-4ba8-8a7c-0abe44bed854.png)
+![60b02bba9a49680e60фвыйаыf92](https://user-images.githubusercontent.com/97908971/198133746-ead000b5-0f77-488b-aa38-bd35b653e79b.png)
