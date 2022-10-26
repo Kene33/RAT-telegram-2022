@@ -3,6 +3,7 @@ Always remember that the responsibility for the use of this repository for bad p
 The repository was created for informational purposes only and does not carry a call for any action.
 
 Rat functions:
+
     Screenshot
 
     Antivirus
