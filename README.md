@@ -142,3 +142,8 @@ Screenshots:
 
 ![1d532f0474efe03a1ff8d](https://user-images.githubusercontent.com/97908971/198133743-400f60e5-3b95-4ba8-8a7c-0abe44bed854.png)
 ![60b02bba9a49680e60фвыйаыf92](https://user-images.githubusercontent.com/97908971/198133746-ead000b5-0f77-488b-aa38-bd35b653e79b.png)
+
+
+###
+
+Frequently asked Questions (in Russian) - https://clck.ru/32V3zN
