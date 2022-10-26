@@ -103,6 +103,9 @@ Rat functions:
     Send file to victim on PC
 
     Play victim's voice message on PC
+    ![1d532f0474efe03a1ff8d](https://user-images.githubusercontent.com/97908971/198133423-bcca1b00-f7f4-435c-8742-7ba2308c56f4.png)
+    ![60b02bba9a49680e60фвыйаыf92](https://user-images.githubusercontent.com/97908971/198133492-01150bf0-4209-4868-82bc-0e3826204965.png)
+
     
     ----------------------------------------
     
