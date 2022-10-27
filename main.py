@@ -120,4 +120,4 @@ while True:
         pass
 
 
-        # made with love! my telegram channel https://t.me/whitesroom
+        # made with love!
