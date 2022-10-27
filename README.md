@@ -109,7 +109,7 @@ Rat functions:
     Also now all commands can be executed using the buttons in the telegram bot.
     
     
-    Conditions for use:
+Conditions for use:
     
 1 Unzip the archive to any folder
 
