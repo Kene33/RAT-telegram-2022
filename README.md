@@ -108,7 +108,6 @@ Rat functions:
     
     Also now all commands can be executed using the buttons in the telegram bot.
     
-    ----------------------------------------
     
     Conditions for use:
     
